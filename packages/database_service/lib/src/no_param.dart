@@ -1,0 +1,3 @@
+class NoParam {
+  const NoParam();
+}
