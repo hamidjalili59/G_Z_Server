@@ -16,10 +16,6 @@ dependencies:
   dart_jsonwebtoken: ^2.6.2
   # https://pub.dev/packages/dartz
   dartz: ^0.10.1
-  # https://pub.dev/packages/dio
-  dio: ^4.0.6
-  # https://pub.dev/packages/freezed_annotation
-  freezed_annotation: ^2.2.0
   # https://pub.dev/packages/get_it
   get_it: ^7.2.0
   # https://pub.dev/packages/hive
@@ -39,6 +35,8 @@ dev_dependencies:
     path: ./packages/database_service/
   # https://pub.dev/packages/freezed
   freezed: ^2.3.2
+  # https://pub.dev/packages/freezed_annotation
+  freezed_annotation: ^2.2.0
   # https://pub.dev/packages/hive_generator
   hive_generator: ^2.0.0
   # https://pub.dev/packages/injectable_generator
